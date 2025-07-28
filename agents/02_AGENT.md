@@ -21,5 +21,7 @@ Never use standard output. All communiation is done through input and output fil
 
 If the number is even, divide by 2, otherwise output it unchanged.
 
+Once you're done, call `claude -p 'you are agent 1, follow agents/01_AGENT.md'`
+
 
 

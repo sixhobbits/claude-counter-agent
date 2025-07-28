@@ -21,5 +21,7 @@ Never use standard output. All communiation is done through input and output fil
 
 If the number is odd, multiply by 3. Otherwise output the same number that was input.
 
+Once you're done, call `claude -p 'you are agent 2, follow agents/02_AGENT.md'`
+
 
 
